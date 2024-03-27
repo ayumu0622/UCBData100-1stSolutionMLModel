@@ -1,4 +1,4 @@
-# UCB Data 100: 1st Place Solution for Machine Learning Model Project
+# 🐻 UCB Data 100: 🥇 1st Place Solution for Machine Learning Model Project
 
 ## Overview
 
