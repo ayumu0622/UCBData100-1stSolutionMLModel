@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the GitHub repository for the first-place solution in the UC Berkeley Data 100 course's Project A2. This project aimed to develop a sophisticated machine learning model to predict housing prices, leveraging advanced data preprocessing and feature engineering techniques.
+This is the first-place solution for Project A2 in the Data 100 course at UC Berkeley, distinguished among submissions from over 1000 students. The challenge was to develop a machine learning model that predicts housing prices with high accuracy, employing advanced data preprocessing and feature engineering techniques.
 
 ## Project Highlights
 
