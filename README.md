@@ -6,7 +6,7 @@ This is the first-place solution for Project A2 in the Data 100 course at UC Ber
 
 <img width="999" alt="Screen Shot 2024-03-26 at 9 41 49 PM" src="https://github.com/ayumu0622/UCBData100-1stSolutionMLModel/assets/67722808/dddede96-b260-48be-a222-bf253b829150">
 
-## Project Highlights
+## Feature Engineering
 
 - **Target Encoding for Categorical Data**: Utilized target encoding on nominal data (e.g., town and neighborhood codes) to reduce the curse of dimensionality, enhancing model accuracy by calculating the average housing price for each category.
 
