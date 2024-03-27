@@ -21,7 +21,3 @@ This is the first-place solution for Project A2 in the Data 100 course at UC Ber
 
 - **Data Transformation & Standardization**: 
   - Applied logarithmic transformations to qualitative features and employed standard scaling to normalize the dataset, substantially improving our model's predictive accuracy and interpretability.
-
-## About
-
-This repository represents a milestone achievement in the Data 100 course at UC Berkeley, distinguishing itself by addressing the intricate challenges of predicting housing prices with an innovative and effective machine learning model.
