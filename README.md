@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is the first-place solution for Project A2 in the Data 100 course at UC Berkeley, distinguished among submissions from over 1000 students. The challenge was to develop a machine learning model that predicts housing prices with high accuracy, employing advanced data preprocessing and feature engineering techniques.
+This is the first-place solution for Project A2 in the Data 100 course at UC Berkeley, distinguished among submissions from **over 1000 students**. The challenge was to develop a machine learning model that predicts housing prices with high accuracy, employing advanced data preprocessing and feature engineering techniques.
 
 <img width="999" alt="Screen Shot 2024-03-26 at 9 41 49 PM" src="https://github.com/ayumu0622/UCBData100-1stSolutionMLModel/assets/67722808/dddede96-b260-48be-a222-bf253b829150">
 
