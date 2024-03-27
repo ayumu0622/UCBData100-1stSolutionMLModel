@@ -4,6 +4,9 @@
 
 This is the first-place solution for Project A2 in the Data 100 course at UC Berkeley, distinguished among submissions from over 1000 students. The challenge was to develop a machine learning model that predicts housing prices with high accuracy, employing advanced data preprocessing and feature engineering techniques.
 
+<img width="1073" alt="Screen Shot 2024-03-26 at 5 07 13 PM" src="https://github.com/ayumu0622/UCBData100-1stSolutionMLModel/assets/67722808/abdfe55e-c0a1-4136-a021-081d1cc6939b">
+
+
 ## Project Highlights
 
 - **Target Encoding for Categorical Data**: Utilized target encoding on nominal data (e.g., town and neighborhood codes) to reduce the curse of dimensionality, enhancing model accuracy by calculating the average housing price for each category.
